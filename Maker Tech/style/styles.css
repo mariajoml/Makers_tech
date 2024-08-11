@@ -1,0 +1,119 @@
+/* Fondo de la aplicación */
+.stApp {
+    background-color: #f0f4f8; /* Un color suave y claro para el fondo */
+    color: #31333f;
+}
+
+/* Estilo para los títulos */
+h1, h2, h3, h4 {
+    color: #4b8bbe; /* Un tono azul que destaca */
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 20px;
+}
+
+/* Sidebar: Fondo oscuro y texto claro */
+.css-1d391kg {
+    background-color: #2b303b;
+    color: #ffffff;
+}
+
+.stSidebar .stButton>button {
+    background-color: #4b8bbe; /* Botones del sidebar con el color azul principal */
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+
+.stSidebar .stCheckbox label {
+    font-weight: bold;
+    color: #ffffff; /* Texto de los checkboxes en blanco */
+    font-size: 16px;
+}
+
+/* Encabezados de gráficos */
+.st-bx {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    color: #4b8bbe;
+    border-bottom: 2px solid #4b8bbe;
+    padding-bottom: 10px;
+}
+
+/* Gráficos con fondo blanco y bordes redondeados */
+.plotly-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra ligera para resaltar los gráficos */
+}
+
+/* Estilos para tablas */
+.dataframe {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.dataframe th, .dataframe td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.dataframe tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.dataframe tr:hover {
+    background-color: #ddd;
+}
+
+.dataframe th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4b8bbe;
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Personalización de botones */
+.stButton>button {
+    background-color: #4b8bbe;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.stButton>button:hover {
+    background-color: #3a74a3; /* Color más oscuro al pasar el mouse */
+}
+
+/* Títulos en el sidebar */
+.stSidebar .stSidebarHeader {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    padding-bottom: 10px;
+}
+
+/* Personalización de los selectboxes */
+.stSelectbox>div>div>div>div {
+    background-color: #ffffff;
+    color: #31333f;
+    border-radius: 5px;
+}
+
+/* Enlaces */
+a {
+    color: #4b8bbe;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

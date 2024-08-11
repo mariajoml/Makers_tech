@@ -1,0 +1,31 @@
+id,Marca,Modelo,Procesador,RAM,Almacenamiento,Precio,Stock,Tipo
+1,Dell,Inspiron 15,Intel Core i5,8GB,256GB SSD,700,10,Laptop
+2,HP,Pavilion 14,Intel Core i7,16GB,512GB SSD,900,5,Laptop
+3,Lenovo,ThinkPad X1,Intel Core i7,16GB,1TB SSD,1200,3,Laptop
+4,Asus,VivoBook 14,AMD Ryzen 5,8GB,512GB SSD,650,8,Laptop
+5,Acer,Predator Helios 300,Intel Core i7,16GB,1TB SSD,1500,2,Gaming
+6,Apple,MacBook Air,Apple M1,8GB,256GB SSD,999,7,Laptop
+7,Microsoft,Surface Laptop 4,Intel Core i5,8GB,512GB SSD,1100,4,Laptop
+8,Samsung,Galaxy Book Pro,Intel Core i7,16GB,512GB SSD,1300,6,Laptop
+9,LG,Gram 14,Intel Core i7,8GB,256GB SSD,1100,5,Laptop
+10,Razer,Blade 15,Intel Core i7,16GB,512GB SSD,1800,2,Gaming
+11,MSI,GF65 Thin,Intel Core i5,8GB,512GB SSD,1000,10,Gaming
+12,Alienware,m15 R6,Intel Core i7,16GB,1TB SSD,2100,3,Gaming
+13,Gigabyte,Aero 15,Intel Core i7,16GB,512GB SSD,1700,4,Gaming
+14,Huawei,MateBook X Pro,Intel Core i7,16GB,1TB SSD,1400,6,Laptop
+15,Xiaomi,Mi Notebook Pro,Intel Core i5,8GB,512GB SSD,800,10,Laptop
+16,Toshiba,Dynabook Tecra,Intel Core i5,8GB,256GB SSD,750,8,Laptop
+17,Panasonic,Toughbook 55,Intel Core i5,8GB,512GB SSD,2000,5,Laptop
+18,Sony,VAIO Z,Intel Core i7,16GB,512GB SSD,2200,2,Laptop
+19,Acer,Swift 3,AMD Ryzen 7,8GB,512GB SSD,700,7,Laptop
+20,HP,Omen 15,Intel Core i7,16GB,1TB SSD,1500,4,Gaming
+21,Dell,XPS 13,Intel Core i7,16GB,1TB SSD,1600,5,Laptop
+22,Lenovo,Legion 5,AMD Ryzen 7,16GB,512GB SSD,1200,7,Gaming
+23,Asus,ROG Zephyrus G14,AMD Ryzen 9,16GB,1TB SSD,1800,4,Gaming
+24,Acer,Aspire 5,Intel Core i5,8GB,512GB SSD,600,12,Laptop
+25,MSI,Stealth 15M,Intel Core i7,16GB,512GB SSD,1400,5,Gaming
+26,Apple,MacBook Pro,Apple M1,16GB,1TB SSD,2400,3,Laptop
+27,Samsung,Galaxy Book Flex,Intel Core i7,16GB,1TB SSD,1500,4,Laptop
+28,Dell,G5 15,Intel Core i5,8GB,512GB SSD,1000,8,Gaming
+29,HP,Envy 13,Intel Core i5,8GB,256GB SSD,900,10,Laptop
+30,Lenovo,Yoga C740,Intel Core i7,16GB,512GB SSD,1100,6,Laptop

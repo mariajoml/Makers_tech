@@ -1,0 +1,88 @@
+/* Fondo general */
+.stApp {
+    background-color: #f8f9fa; /* Color claro para el fondo general */
+    color: #333; /* Color de texto general */
+    font-family: 'Arial', sans-serif;
+}
+
+/* Encabezados */
+h1, h2, h3 {
+    text-align: center; /* Centramos todos los encabezados */
+    color: #007BFF; /* Azul claro para los encabezados */
+}
+
+/* Contenedores centrados */
+.stContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centramos horizontalmente */
+    justify-content: center; /* Centramos verticalmente */
+}
+
+/* Botones */
+.stButton>button {
+    background-color: #007BFF; /* Azul claro */
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.stButton>button:hover {
+    background-color: #0056b3; /* Azul más oscuro al pasar el ratón */
+    color: white;
+}
+
+/* Sección de imágenes y texto */
+.stImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; /* Ajusta el ancho de las imágenes para que se vean bien */
+    border-radius: 10px; /* Bordes redondeados para las imágenes */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave para las imágenes */
+}
+
+.stText {
+    text-align: justify; /* Justificamos el texto para que se vea mejor */
+    font-size: 16px;
+    line-height: 1.6; /* Mejoramos la legibilidad del texto */
+    margin-bottom: 20px;
+}
+
+/* Línea divisoria */
+.stDivider {
+    border-top: 2px solid #007BFF; /* Azul claro para las líneas divisorias */
+    width: 50%;
+    margin: 20px auto;
+}
+
+/* Encabezado de página */
+.stPageTitle {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+/* Contenedor de servicios */
+.stServiceContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+/* Texto de servicio */
+.stServiceText {
+    font-size: 18px;
+    margin-top: 20px;
+    color: #007BFF;
+    text-align: center;
+    line-height: 1.8;
+}
+
